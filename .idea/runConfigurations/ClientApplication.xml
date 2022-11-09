@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="ClientApplication" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="com.example.client.ClientApplication" />
+    <module name="client.main" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
